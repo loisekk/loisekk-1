@@ -1,99 +1,108 @@
 <!-- PREMIUM HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=230&section=header&text=Yash%20Brahmankar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
-
-<h2 align="center">Artificial Intelligence & Machine Learning Engineer</h2>
-
-<h4 align="center">
-AIML @ OIST | Data Science & Analytics | Oracle & Cisco Certified  
-Python • SQL • C • AI Systems Builder
-</h4>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Machine+Learning+Engineer;Data+Science+Enthusiast;Model+Builder+%26+Problem+Solver;Turning+Data+Into+Impact;Future+AI+Innovator+🚀&center=true&width=700&height=50">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=loisekk&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=230&section=header&text=Yash%20Brahmankar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20LLM%20Enthusiast&descAlignY=60&descSize=18" />
 </p>
 
 ---
 
-# 🧠 Professional Summary
+## 🧠 About Me
 
-I am a Bachelor of Technology student specializing in Artificial Intelligence and Machine Learning at Oriental Institute of Science and Technology (2024–2028).
+- 🎓 AIML Student at OIST (2024–2028)  
+- 🤖 Passionate about Machine Learning, Deep Learning & LLM Systems  
+- 📊 Strong interest in Data Analytics & Real-World Problem Solving  
+- 🧠 Exploring AI Agents & Prompt Engineering  
+- 🏆 Oracle Certified  
+- 🌐 Cisco Certified  
+- 🚀 Building AI systems that create practical impact  
 
-My focus lies in building intelligent systems using structured data processing, machine learning algorithms, and strong programming fundamentals. I actively develop projects that transform theoretical AI concepts into working solutions.
-
-I believe in practical learning, clean coding, and solving real-world problems using technology.
-
----
-
-# 🎓 Education
-
-**Bachelor of Technology (B.Tech)**  
-Artificial Intelligence & Machine Learning  
-Oriental Institute of Science and Technology, Bhopal  
-2024 – 2028  
-
-Core Academic Focus:
-- Data Structures & Algorithms
-- Machine Learning Fundamentals
-- Programming Concepts
-- Data Handling & Model Evaluation
+Skills include **programming, model training, data handling, problem-solving**, and **LLM-based application development**.
 
 ---
 
-# 🛠 Technical Expertise
+## 🛠 Tech Stack & Expertise
 
-## 💻 Programming Languages
-- Python (Primary Language)
-- SQL
-- C
-- Data Structures & Algorithms
-
-## 🤖 Artificial Intelligence & Machine Learning
-- Supervised Learning
-- Model Training & Testing
-- Data Cleaning & Preparation
-- Feature Engineering (Basic)
-- Performance Evaluation Metrics
-
-## 📊 Data & Tools
-- MySQL
-- Git & GitHub (Version Control)
-- Jupyter Notebook
-- Figma (Basic UI Understanding)
-
----
-
-# 📈 GitHub Performance Dashboard
-
+### 👨‍💻 Programming
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=loisekk&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loisekk&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+### 🤖 Machine Learning & Deep Learning
+<p align="center">
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=loisekk&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🏆 Certifications & Recognition
+### 🧠 LLM & AI Engineering
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Large%20Language%20Models-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-0A66C2?style=for-the-badge"/>
+</p>
 
-- Oracle Certified  
-- Cisco Certified  
-- AIML Undergraduate – OIST  
+---
+
+### Core Skills
+- Python Programming & Data Structures  
+- Machine Learning Algorithms & Model Training  
+- Deep Learning Fundamentals (TensorFlow)  
+- Data Processing & Feature Engineering  
+- LLM-Based Application Development  
+- Git & GitHub Version Control  
+- Problem Solving & DSA  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech) – Artificial Intelligence & Machine Learning**  
+Oriental Institute of Science and Technology, Bhopal, MP (2024–2028)
+
+Relevant Coursework:
+- Python Programming  
+- Data Structures & Algorithms  
+- Machine Learning Fundamentals  
+- Deep Learning Basics  
+- Model Training & Evaluation  
+- Data Processing & Preparation  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=loisekk&theme=algolia&no-frame=true&no-bg=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=loisekk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loisekk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=loisekk&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loisekk&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=loisekk" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -101,42 +110,8 @@ Core Academic Focus:
 
 ---
 
-# 🚀 Current Development Focus (2026 Roadmap)
-
-- Building end-to-end ML mini projects
-- Strengthening DSA for technical interviews
-- Improving model optimization techniques
-- Learning applied AI for analytics & automation
-- Exploring deployment of ML models
-
----
-
-# 💡 Engineering Philosophy
-
-✔ Write clean, readable, and efficient code  
-✔ Understand fundamentals before frameworks  
-✔ Build projects, not just complete courses  
-✔ Focus on long-term skill growth  
-✔ Combine AI knowledge with practical application  
-
----
-
-# 🌍 Location & Contact
-
-📍 Bhopal, Madhya Pradesh, India  
-🎓 AIML @ OIST  
-📧 yashbrahmankar95@gmail.com  
-
 <p align="center">
-<a href="https://www.linkedin.com/in/yashbrahmankar-74b422397/">
-  <img src="https://img.shields.io/badge/LinkedIn-Yash%20Brahmankar-blue?style=for-the-badge&logo=linkedin" />
-</a>
-</p>
-
----
-
-<p align="center">
-⚡ Building Intelligent Systems Today for a Smarter Tomorrow ⚡
+  <strong>⚡ Building Intelligent AI Systems Today — For a Smarter Tomorrow ⚡</strong>
 </p>
 
 <p align="center">

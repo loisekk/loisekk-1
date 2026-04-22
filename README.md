@@ -58,7 +58,38 @@ Skills include **programming, model training, data handling, problem-solving**, 
 ---
 <span style="display:inline-flex;align-items:center;gap:7px;background:#0d1117;color:#e6edf3;font-family:monospace;font-size:12px;font-weight:600;padding:5px 11px;border-radius:5px;border:1.5px solid #30363d;letter-spacing:0.03em;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" style="filter:brightness(0) invert(1);"/>Python</span>
 <span style="display:inline-flex;align-items:center;gap:7px;background:#0d1117;color:#e6edf3;font-family:monospace;font-size:12px;font-weight:600;padding:5px 11px;border-radius:5px;border:1.5px solid #30363d;letter-spacing:0.03em;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16" height="16" style="filter:brightness(0) invert(1);"/>C</span>
+<!-- Languages -->
+<a href="#" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+<a href="#" title="C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+<a href="#" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+<a href="#" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
 
+<!-- Databases -->
+<a href="#" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+<a href="#" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+
+<!-- Data & Analytics -->
+<a href="#" title="Excel"><img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+<a href="#" title="Power BI"><img src="https://img.icons8.com/color/48/power-bi.png" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+<a href="#" title="Jupyter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+<a href="#" title="Kaggle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+
+<!-- Frameworks & Tools -->
+<a href="#" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+<a href="#" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+
+<!-- Cloud & DevOps -->
+<a href="#" title="AWS"><img src="https://img.icons8.com/color/48/amazon-web-services.png" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+<a href="#" title="Google Cloud"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+<a href="#" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+
+<!-- Design & Creative -->
+<a href="#" title="Canva"><img src="https://img.icons8.com/color/48/canva.png" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+<a href="#" title="Blender"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+
+<!-- Competitive & AI -->
+<a href="#" title="LeetCode"><img src="https://img.icons8.com/color/48/000000/leetcode.png" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
+<a href="#" title="Claude"><img src="https://img.icons8.com/color/48/claude.png" width="38" height="38" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:7px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></a>
 ## 📊 GitHub Analytics
 <p align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=loisekk&show_icons=true&theme=tokyonight&hide_border=true" />

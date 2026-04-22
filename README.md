@@ -48,7 +48,7 @@ Skills include **programming, model training, data handling, problem-solving**, 
 
 ### 👨‍💻 Programming
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode,supabase,&theme=dark" />
 </p>
 
 ---

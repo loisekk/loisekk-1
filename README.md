@@ -26,8 +26,6 @@ Skills include **programming, model training, data handling, problem-solving**, 
 
 ---
 <!-- Languages -->
-<!-- Languages -->
-<!-- Languages -->
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:8px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:8px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:8px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:8px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></p>
 
 <!-- Databases -->
@@ -47,7 +45,6 @@ Skills include **programming, model training, data handling, problem-solving**, 
 
 <!-- Competitive & AI -->
 <p><img src="https://img.icons8.com/color/48/000000/leetcode.png" title="LeetCode" width="40" height="40" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:8px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/><img src="https://img.icons8.com/color/48/claude.png" title="Claude" width="40" height="40" style="background:#0d1117;border:1.5px solid #30363d;border-radius:5px;padding:8px;box-sizing:border-box;object-fit:contain;filter:brightness(0) invert(1);"/></p>
-## 🛠 Tech Stack & Expertise
 
 ### 👨‍💻 Programming
 <p align="center">
